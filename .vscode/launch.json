@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "bun",
+      "request": "launch",
+      "name": "Run",
+      "program": "./main.ts",
+      "cwd": "${workspaceFolder}",
+      "watchMode": false,
+      "noDebug": true,
+      "internalConsoleOptions": "openOnSessionStart"
+    }
+  ]
+}
