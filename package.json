@@ -1,0 +1,17 @@
+{
+  "name": "build-pilot-route",
+  "module": "main.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "ser-kit": "^3.5.0"
+  },
+  "scripts": {
+    "start": "bun run main.ts"
+  }
+}
