@@ -11,3 +11,7 @@ Follow these steps to open this sample in a Codespace:
 - Click **Create codespace on main**.
 
 For more info, check out the [GitHub documentation](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository#creating-a-codespace).
+
+## Use as local clone
+
+-
