@@ -2,7 +2,15 @@
 
 Manually encode an execution route for Zodiac Pilot
 
-## Use as GitHub Codespace
+### Use as local clone
+
+Follow these steps to get started with a local setup:
+
+- Clone the repo to your local machine
+- Install [bun](https://bun.sh)
+- Install dependencies: `bun i`
+
+### Use as GitHub Codespace
 
 Follow these steps to open this sample in a Codespace:
 
